@@ -64,11 +64,15 @@ nav {
 }
 
 .intro-text h1 {
-  font-size: 40px;
+  font-size: 44px;
   font-weight: bolder;
   background: linear-gradient(to right, #494949, #eb710d);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+
+.intro-text p {
+  font-size: 20px;
 }
 
 .cover {
