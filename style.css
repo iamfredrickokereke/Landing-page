@@ -14,4 +14,37 @@ header {
   background: #eee;
   margin: auto;
   align-items: center;
+  height: 10vh;
+}
+
+.logo-container,
+.nav-links,
+.cart {
+  display: flex;
+}
+
+.logo-container {
+  background: lightblue;
+  flex: 1;
+}
+
+.logo {
+  font-weight: 400;
+  margin: 15px;
+}
+
+nav {
+  background: lightcoral;
+  flex: 2;
+}
+
+.nav-links {
+  justify-content: space-around;
+  list-style: none;
+  text-decoration: none;
+}
+
+.cart {
+  background: lightgreen;
+  flex: 1;
 }
