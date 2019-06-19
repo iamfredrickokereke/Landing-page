@@ -10,7 +10,7 @@ body {
 
 header {
   display: flex;
-  width: 85%;
+  width: 90%;
   background: #eee;
   margin: auto;
   align-items: center;
@@ -54,7 +54,7 @@ nav {
 
 .presentation {
   display: flex;
-  width: 85%;
+  width: 90%;
   align-items: center;
   margin: auto;
   min-height: 80vh;
@@ -82,4 +82,8 @@ nav {
 }
 .cover img {
   height: 70vh;
+}
+
+.cta {
+  padding: 50px 0px 0px 0px;
 }
