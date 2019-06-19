@@ -99,13 +99,16 @@ nav {
   color: #b36cbb;
   width: 150px;
   height: 50px;
+  font-size: 17px;
 }
 
 .cta-add {
-  border: 2px solid #b36cbb;
-  background: transparent;
-  color: #b36cbb;
+  border: none;
+  background: #b36cbb;
+  color: white;
   width: 150px;
   height: 50px;
   cursor: pointer;
+  font-size: 17px;
+  margin: 0px 0px 0px 30px;
 }
