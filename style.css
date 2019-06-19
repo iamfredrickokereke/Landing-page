@@ -63,6 +63,12 @@ nav {
   flex: 1;
 }
 
+.intro-text h1 {
+  font-size: 40px;
+  font-weight: bolder;
+  background: linear-gradient(to right, #494949, #646489);
+}
+
 .cover {
   flex: 1;
 }
