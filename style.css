@@ -100,3 +100,12 @@ nav {
   width: 150px;
   height: 50px;
 }
+
+.cta-cart {
+  border: 2px solid #b36cbb;
+  background: transparent;
+  color: #b36cbb;
+  width: 150px;
+  height: 50px;
+  cursor: pointer;
+}
