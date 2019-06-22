@@ -171,4 +171,11 @@ Responsive design */
     text-align: center;
     margin-top: 10vh;
   }
+  .intro-text h1 {
+    font-size: 30px;
+  }
+
+  .intro-text p {
+    font-size: 18px;
+  }
 }
