@@ -166,4 +166,9 @@ Responsive design */
   .presentation {
     flex-direction: column;
   }
+
+  .introduction {
+    text-align: center;
+    margin-top: 10vh;
+  }
 }
