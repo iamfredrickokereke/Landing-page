@@ -178,4 +178,8 @@ Responsive design */
   .intro-text p {
     font-size: 18px;
   }
+
+  .cta {
+    padding: top 10px;
+  }
 }
