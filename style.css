@@ -182,4 +182,9 @@ Responsive design */
   .cta {
     padding: top 10px;
   }
+
+  .laptop-select {
+    bottom: 50%;
+    right: 50%;
+  }
 }
