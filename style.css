@@ -61,7 +61,7 @@ nav {
   width: 90%;
   align-items: center;
   margin: auto;
-  min-height: 80vh;
+  min-height: 70vh;
 }
 .introduction {
   flex: 1;
@@ -83,7 +83,7 @@ nav {
 
 .cover {
   flex: 1;
-  height: 70vh;
+  height: 50vh;
 }
 .cover img {
   height: 100%;
@@ -170,7 +170,7 @@ Responsive design */
 
   .introduction {
     text-align: center;
-    margin-top: 10vh;
+    margin-top: 5vh;
   }
   .intro-text h1 {
     font-size: 30px;
@@ -181,11 +181,11 @@ Responsive design */
   }
 
   .cta {
-    padding: top 10px;
+    padding-top: 10px;
   }
 
   .laptop-select {
-    bottom: 50%;
+    bottom: 5%;
     right: 50%;
     width: 50%;
     transform: translate(50%, 5%);
