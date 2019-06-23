@@ -201,3 +201,6 @@ Responsive design */
     opacity: 0.2;
   }
 }
+
+@media screen and (max-width: 360px) {
+}
