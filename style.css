@@ -203,5 +203,7 @@ Responsive design */
 }
 
 @media screen and (max-width: 360px) {
- 
+  body {
+    display: none;
+  }
 }
